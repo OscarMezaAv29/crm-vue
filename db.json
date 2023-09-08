@@ -7,17 +7,7 @@
       "telefono": "123-123-1234",
       "empresa": "Abarrotera",
       "puesto": "Sistemas",
-      "estado": 1,
-      "id": 1
-    },
-    {
-      "nombre": "Oscar",
-      "apellido": "Meza",
-      "email": "correo@correo.com",
-      "telefono": "123-123-1234",
-      "empresa": "Abarrotera",
-      "puesto": "Sistemas",
-      "estado": 0,
+      "estado": false,
       "id": 2
     }
   ]
