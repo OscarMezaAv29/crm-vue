@@ -1,5 +1,7 @@
 # crm-vue
 
+Enlace al proyecto: https://admirable-seahorse-9214d5.netlify.app/
+
 Proyecto del curso Vue.js 3 - La Guía Completa
 
 Creando un CRM con Routing y REST API
